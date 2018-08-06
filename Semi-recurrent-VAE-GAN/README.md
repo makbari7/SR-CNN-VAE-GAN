@@ -1,1 +1,0 @@
-# Semi-recurrent-VAE-GAN
